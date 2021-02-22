@@ -8,6 +8,6 @@
     }
   },
   "rewards": {
-    "function": "techblox:pulverizer/give"
+    "function": "techblox:pulverizer/block/give"
   }
 }
