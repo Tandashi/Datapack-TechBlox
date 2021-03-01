@@ -1,0 +1,1 @@
+execute store result score @s tb.wain.iTimeInc run scoreboard players operation @s tb.wain.iTimeInc += @s tb.wain.iTimeMul

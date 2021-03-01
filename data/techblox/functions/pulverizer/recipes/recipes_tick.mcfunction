@@ -1,2 +1,0 @@
-function techblox:pulverizer/recipes/prevent_defaults
-function techblox:pulverizer/recipes/recipes_custom

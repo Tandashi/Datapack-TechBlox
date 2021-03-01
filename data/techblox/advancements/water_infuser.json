@@ -3,11 +3,11 @@
     "unlocked": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "techblox:pulverizer"
+        "recipe": "techblox:water_infuser"
       }
     }
   },
   "rewards": {
-    "function": "techblox:blocks/pulverizer/block/give"
+    "function": "techblox:blocks/water_infuser/block/give"
   }
 }

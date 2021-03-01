@@ -1,0 +1,2 @@
+function techblox:blocks/blast_furnace/recipes/prevent_defaults
+function techblox:blocks/water_infuser/recipes/recipes_custom
