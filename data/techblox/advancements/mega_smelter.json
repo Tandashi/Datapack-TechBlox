@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "techblox:mega_smelter"
+      }
+    }
+  },
+  "rewards": {
+    "function": "techblox:blocks/mega_smelter/block/give"
+  }
+}

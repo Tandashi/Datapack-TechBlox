@@ -12,4 +12,7 @@ scoreboard objectives add tb.wain.items0 dummy
 scoreboard objectives add tb.wain.items2 dummy
 scoreboard objectives add tb.wain.itemInc dummy
 
+scoreboard objectives add tb.ms.ctTotal dummy
+scoreboard players add default tb.ms.ctTotal 80
+
 tellraw @a {"text": "Loaded TechBlox Datapack"}
